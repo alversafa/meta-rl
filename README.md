@@ -8,7 +8,7 @@ Experiments:
 
 * [depbandit_1.ipynb](depbandit_1.ipynb): Dependent bandit experiment I from the 
 [Learning to reinforcement learn](https://arxiv.org/abs/1611.05763) paper by
-J. Wang et. al \
+J. Wang et. al
 
 	In this experiment, the agent is trained on a distribution of dependent 2-armed
 	bandits and it is asked to solve particular 2-armed bandits where the reward giving
@@ -16,7 +16,7 @@ J. Wang et. al \
 
 * [depbandit_2.ipynb](depbandit_2.ipynb): Dependent bandit experiment II from the 
 [Learning to reinforcement learn](https://arxiv.org/abs/1611.05763) paper by
-J. Wang et. al \
+J. Wang et. al
 
 	In this experiment, the agent is trained on a distribution of dependent 11-armed
 	bandits with deterministic payouts. The nine non-target arms give a reward of 1,
